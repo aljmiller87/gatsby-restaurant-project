@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 import { Link } from "gatsby";
-import logo from "../../../images/logo.svg";
+import logo from "../../images/logo.svg";
 import { FaAlignRight } from "react-icons/fa";
 
 const Header = ({ handleNavbar }) => {

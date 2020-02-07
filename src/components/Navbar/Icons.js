@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import styled from "styled-components";
-import { styles } from "../../../utils";
+import { styles } from "../../utils";
 import { FaInstagram, FaTwitter, FaFacebook } from "react-icons/fa";
 
 const iconList = [

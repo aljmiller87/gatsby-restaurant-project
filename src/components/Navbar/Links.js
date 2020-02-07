@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import styled from "styled-components";
 import { Link } from "gatsby";
-import { styles } from "../../../utils";
+import { styles } from "../../utils";
 
 const pageLinks = [
   {
