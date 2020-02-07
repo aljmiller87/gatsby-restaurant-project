@@ -11,7 +11,8 @@
 }
 
 body {
-  font-family: "Caveat", cursive;
+  /* font-family: "Caveat", cursive; */
+  font-family: "Open Sans", sans-serif;
   background: #fff;
   color: #000;
 }
